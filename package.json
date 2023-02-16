@@ -1,0 +1,27 @@
+{
+  "name": "howlongtobeat",
+  "version": "1.0.0",
+  "description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tueska/fl-howlongtobeat.git"
+  },
+  "keywords": [
+    "flowlauncher",
+    "howlongtobeat"
+  ],
+  "author": "Tueska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tueska/fl-howlongtobeat/issues"
+  },
+  "homepage": "https://github.com/Tueska/fl-howlongtobeat#readme",
+  "dependencies": {
+    "howlongtobeat": "^1.7.0",
+    "open": "^8.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
