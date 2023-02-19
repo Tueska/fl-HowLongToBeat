@@ -5,8 +5,8 @@
     "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
     "Author": "Tueska",
     "Version": "1.0.0",
-    "Language": "executable",
+    "Language": "JavaScript",
     "Website": "https://github.com/Tueska/fl-howlongtobeat",
-    "ExecuteFileName": "node.bat",
+    "ExecuteFileName": "main.js",
     "IcoPath": "Images\\howlongtobeat.png"
 }
