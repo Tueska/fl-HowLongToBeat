@@ -4,7 +4,7 @@ This is a plugin for the [FlowLauncher](https://github.com/Flow-Launcher/Flow.La
 
 ## Installation
 
-To install the plugin, you must have FlowLauncher installed on your system. Once you have FlowLauncher installed, you can download the repository, download the release and place it in the Plugins folder in your FlowLauncher installation directory.
+To install the plugin, you must have Flow Launcher installed on your system, and then install the plugin from the Plugin Store or via `pm install beat how long to beat`. After installation you will be prompted to install/select Node.js if you have not done so.
 
 
 ## Usage
