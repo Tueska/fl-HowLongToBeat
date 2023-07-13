@@ -4,7 +4,7 @@
     "Name": "How Long To Beat",
     "Description": "Searches for the provided Name and returns the Playtime from HowLongToBeat",
     "Author": "Tueska",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Language": "JavaScript",
     "Website": "https://github.com/Tueska/fl-howlongtobeat",
     "ExecuteFileName": "main.js",
